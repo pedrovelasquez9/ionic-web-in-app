@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "cafeceros",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
