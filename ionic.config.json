@@ -1,0 +1,7 @@
+{
+  "name": "web-apk-2024",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
